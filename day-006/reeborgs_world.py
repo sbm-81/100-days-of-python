@@ -157,3 +157,22 @@
 #         move()
 
     
+
+#updated code if there is no wall on the right and front, then it should move untill it find the wall
+# def turn_right():
+#     turn_left()
+#     turn_left()
+#     turn_left()
+
+# while not wall_on_right() and not wall_in_front():
+#     move()
+# while not at_goal():
+#     while not wall_on_right():
+#         turn_right()
+#         if not wall_on_right() and not wall_in_front():
+#             move()
+#     if wall_on_right() and wall_in_front():
+#         turn_left()
+#     elif wall_on_right() and not wall_in_front():
+#         move()
+
